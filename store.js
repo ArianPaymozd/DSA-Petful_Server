@@ -13,7 +13,8 @@ module.exports = {
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/33053/dog-young-dog-small-dog-maltese.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Zim',
-      story: 'Owner Passed away'
+      story: 'Owner Passed away',
+      type: 'dog'
     },
 
     {
@@ -23,7 +24,8 @@ module.exports = {
       gender: 'Female',
       imageURL: 'https://images.pexels.com/photos/1254140/pexels-photo-1254140.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Fran',
-      story: 'Found downtown'
+      story: 'Found downtown',
+      type: 'dog'
     },
 
     {
@@ -33,7 +35,8 @@ module.exports = {
       gender: 'Male',
       age: 3,
       breed: 'Pug',
-      story: 'Owner Passed away'
+      story: 'Owner Passed away',
+      type: 'dog'
     },
 
     {
@@ -43,7 +46,8 @@ module.exports = {
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/733416/pexels-photo-733416.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Philip',
-      story: 'Owner Passed away'
+      story: 'Owner Passed away',
+      type: 'dog'
     },
 
     {
@@ -53,7 +57,8 @@ module.exports = {
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/374906/pexels-photo-374906.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Doogie',
-      story: 'Owner Passed away'
+      story: 'Owner Passed away',
+      type: 'dog'
     },
 
     {
@@ -63,7 +68,8 @@ module.exports = {
       gender: 'Male',
       age: 3,
       breed: 'Golden Retriever',
-      story: 'Owner Passed away'
+      story: 'Owner Passed away',
+      type: 'dog'
     },
 
     {
@@ -73,7 +79,8 @@ module.exports = {
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/1490908/pexels-photo-1490908.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
       name: 'Sam',
-      story: 'Owner Passed away'
+      story: 'Owner Passed away',
+      type: 'dog'
     },
 
     {
@@ -83,7 +90,8 @@ module.exports = {
       gender: 'Female',
       imageURL: 'https://images.pexels.com/photos/1322182/pexels-photo-1322182.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
       name: 'Smelly',
-      story: 'Owner Passed away'
+      story: 'Owner Passed away',
+      type: 'dog'
     },
 
     {
@@ -93,7 +101,8 @@ module.exports = {
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/257540/pexels-photo-257540.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Tiny',
-      story: 'Found downtown'
+      story: 'Found downtown',
+      type: 'dog'
     },
 
     {
@@ -103,7 +112,8 @@ module.exports = {
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/92380/pexels-photo-92380.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
       name: 'Tom',
-      story: 'Owner surrrendered dog'
+      story: 'Owner surrrendered dog',
+      type: 'dog'
     },
 
     {
@@ -113,7 +123,8 @@ module.exports = {
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/1629781/pexels-photo-1629781.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Tim',
-      story: 'Found in neighborhood'
+      story: 'Found in neighborhood',
+      type: 'dog'
     }
   ],
 
@@ -125,7 +136,8 @@ module.exports = {
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Steve French',
-      story: 'Thrown on the street'
+      story: 'Thrown on the street',
+      type: 'cat'
     },
 
     {
@@ -135,7 +147,8 @@ module.exports = {
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Snapjacks',
-      story: 'Thrown on the street'
+      story: 'Thrown on the street',
+      type: 'cat'
     },
 
     {
@@ -145,7 +158,8 @@ module.exports = {
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/730896/pexels-photo-730896.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Grumpy-Face',
-      story: 'Thrown on the street'
+      story: 'Thrown on the street',
+      type: 'cat'
     },
 
     {
@@ -155,7 +169,8 @@ module.exports = {
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/57416/cat-sweet-kitty-animals-57416.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Garry Lazereyes',
-      story: 'Thrown on the street'
+      story: 'Thrown on the street',
+      type: 'cat'
     },
     {
       age: 2,
@@ -164,7 +179,8 @@ module.exports = {
       gender: 'Male',
       imageURL:'https://images.pexels.com/photos/126407/pexels-photo-126407.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Neapolitan Charlie',
-      story: 'Thrown on the street'
+      story: 'Thrown on the street',
+      type: 'cat'
     },
 
     {
@@ -174,7 +190,8 @@ module.exports = {
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/774731/pexels-photo-774731.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Daisy',
-      story: 'Thrown on the street'
+      story: 'Thrown on the street',
+      type: 'cat'
     },
 
     {
@@ -184,7 +201,8 @@ module.exports = {
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/1543793/pexels-photo-1543793.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Stinkster',
-      story: 'Thrown on the street'
+      story: 'Thrown on the street',
+      type: 'cat'
     },
 
     {
@@ -194,7 +212,8 @@ module.exports = {
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/1276553/pexels-photo-1276553.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Ner-Ner',
-      story: 'Thrown on the street'
+      story: 'Thrown on the street',
+      type: 'cat'
     },
 
     {
@@ -204,7 +223,8 @@ module.exports = {
       gender: 'Male',
       imageURL:'https://images.pexels.com/photos/54632/cat-animal-eyes-grey-54632.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', 
       name: 'Furrnando Valenzuela',
-      story: 'Thrown on the street'
+      story: 'Thrown on the street',
+      type: 'cat'
     },
 
     {
@@ -215,6 +235,7 @@ module.exports = {
       imageURL:'https://images.pexels.com/photos/923360/pexels-photo-923360.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Spike',
       story: 'Thrown on the street',
+      type: 'cat'
     },
 
     {
@@ -224,7 +245,8 @@ module.exports = {
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/1472999/pexels-photo-1472999.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Vince the Pince',
-      story: 'Found in neighborhood'
+      story: 'Found in neighborhood',
+      type: 'cat'
     }
   ]
 }
