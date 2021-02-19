@@ -37,7 +37,7 @@ class Queue {
        this.last = null;
    }
    this.first = this.first.next;
-   return node.value;
+   return [node.value, this.first.value];
   }
 
   show() {
