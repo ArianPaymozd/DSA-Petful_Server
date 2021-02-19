@@ -133,7 +133,7 @@ module.exports = {
       age: 2,
       breed: 'Bengal',
       description: 'Orange bengal cat with black stripes lounging on concrete.',
-      gender: 'Female',
+      gender: 'Male',
       imageURL:'https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Steve French',
       story: 'Thrown on the street',
