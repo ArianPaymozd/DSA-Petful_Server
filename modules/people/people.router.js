@@ -6,7 +6,7 @@ const People = require('./people.service')
 const router = express.Router()
 
 router.get('/', (req, res) => {
-  res.status(200).send(People.get()).end()
+  res.status(200).json(People.get()).end()
 })
 
 router.post('/', json, (req, res) => {
@@ -19,7 +19,7 @@ router.post('/', json, (req, res) => {
 router.delete('/', json, (req, res) => {
   const person = People.dequeue()
   console.log(People.get())
-  res.send(person).end()
+  res.json(person).end()
 })
 
 module.exports = router
