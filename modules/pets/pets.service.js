@@ -24,8 +24,14 @@ module.exports = {
 
   dequeue(type) {
     if (type === 'dog') {
+      if (pets.dogs.first.next == null) {
+        dogs.forEach(dog => pets.dogs.enqueue(dog))
+      }
       return pets.dogs.dequeue()
     } else {
+      if (pets.cats.first.next == null) {
+        cats.forEach(cat => pets.cats.enqueue(cat))
+      }
       return pets.cats.dequeue()
     }
   }
